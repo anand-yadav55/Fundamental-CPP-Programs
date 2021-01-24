@@ -1,4 +1,4 @@
-/*.vs
-/*.vscode
-/*.json
-/*.exe
+.vs
+.vscode
+*.json
+*.exe
