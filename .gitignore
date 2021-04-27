@@ -2,4 +2,7 @@
 .vscode
 *.json
 *.exe
-clearingIOBuffer.cpp
+1.cpp
+test.cpp
+inputf.in
+outputf.in
